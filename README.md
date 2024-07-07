@@ -1,1 +1,1 @@
-# DBMS---Railways-Project
+# The Railways Management System is a database management system (DBMS) designed to manage various aspects of railway operations. This system aims to streamline the processes involved in managing trains, schedules, reservations, and passengers, providing a robust and efficient solution for railway management.
